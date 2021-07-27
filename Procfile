@@ -1,1 +1,1 @@
-web: gunicorn harvestify.wsgi
+web: gunicorn harvestify.wsgi --log-file -
