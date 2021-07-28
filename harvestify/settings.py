@@ -141,4 +141,4 @@ LOGGING = {
 }
 
 # Activate Django-Heroku settings except logging
-django_heroku.settings(locals(), logging=False)
+django_heroku.settings(locals())
