@@ -55,11 +55,11 @@ This project requires Python 3.6 and the following libraries installed:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com) distribution of Python, which already has the above packages and more included.
 
 ## Installation
 
-**1 Clone Repository & Install Packages**
+**1.Clone Repository & Install Packages**
 ```sh
 git clone https://github.com/mranaljadhav/E-commerce.git
 pip install -r requirements.txt
@@ -85,7 +85,7 @@ python manage.py runserver
 
 ### Crop Recommendation
 
-![demo](https://media.giphy.com/media/UoycL04mgn0n7MFhJW/giphy.gif)
+![crop](https://media.giphy.com/media/UoycL04mgn0n7MFhJW/giphy.gif)
 
 
 ### Plant Disease Detection
