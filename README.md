@@ -57,6 +57,22 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
+## Quick Demo
+
+### Homepage 
+
+![demo](https://media.giphy.com/media/Pq0HhPiXEW8Yt8v6Yc/giphy.gif)
+
+
+### Crop Recommendation
+
+![demo](https://media.giphy.com/media/lDRZUTSulWOWvec6FW/giphy.gif)
+
+
+### Plant Disease Detection
+
+![demo](https://media.giphy.com/media/PTDgdma07tPDHKxRFm/giphy.gif)
+
 ## Data Collection:
 
 The data has been made publicly available on https://www.kaggle.com/atharvaingle/crop-recommendation-dataset for Crop Recommendation Dataset and https://www.kaggle.com/vipoooool/new-plant-diseases-dataset for Plant Diseases Dataset.
