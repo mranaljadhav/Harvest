@@ -57,6 +57,25 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
+## Installation
+
+**1 Clone Repository & Install Packages**
+```sh
+git clone https://github.com/mranaljadhav/E-commerce.git
+pip install -r requirements.txt
+```
+**2.Setup Virtualenv**
+```sh
+virtualenv env
+source env/bin/activate
+```
+**3.Migrate & Start Server**
+```sh
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+
 ## Quick Demo
 
 ### Homepage 
@@ -66,7 +85,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Crop Recommendation
 
-![demo](https://media.giphy.com/media/lDRZUTSulWOWvec6FW/giphy.gif)
+![demo](https://media.giphy.com/media/UoycL04mgn0n7MFhJW/giphy.gif)
 
 
 ### Plant Disease Detection
