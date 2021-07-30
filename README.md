@@ -61,7 +61,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 **1.Clone Repository & Install Packages**
 ```sh
-git clone https://github.com/mranaljadhav/E-commerce.git
+git clone https://github.com/mranaljadhav/Harvest.git
 pip install -r requirements.txt
 ```
 **2.Setup Virtualenv**
